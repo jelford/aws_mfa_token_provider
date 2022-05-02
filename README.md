@@ -1,4 +1,4 @@
-This repository is companion to a pull request that adds MFA support to the AWS Rust SDK.
+This repository is companion to [a pull request that adds MFA support to the AWS Rust SDK](https://github.com/awslabs/smithy-rs/pull/1359).
 
 It provides a use-case for the new `ProviderMfaToken` and a possible implementation for a provider
 that sources mfa tokens from stdin.
